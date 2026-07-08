@@ -9,7 +9,7 @@ from scipy.interpolate import make_interp_spline
 import streamlit as st
 
 # --- INITIAL APP SETUP ---
-API_KEY = "a158622f02575738081a117551c558a3"  # Integrated functional key
+API_KEY = "ADD_YOUR_API"  # Integrated functional key
 st.set_page_config(
     page_title="Mausam Analytics Engine - Chhattisgarh", 
     page_icon="🌾", 
